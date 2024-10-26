@@ -4,6 +4,9 @@
 
 This repository contains a curated list of AWS knowledge badges and learning paths to help you gain expertise in various AWS services and technologies. Each link leads to a specific learning plan on AWS Skill Builder.
 
+<img width="1214" alt="image" src="https://github.com/user-attachments/assets/e15787af-652b-4810-ae0d-be1c26842183">
+
+
 ## Table of Contents
 
 - [AWS Knowledge: Cloud Essentials](#aws-knowledge-cloud-essentials)
